@@ -444,6 +444,7 @@ header.sticky{
             position: absolute;
             top: 100%;
             width: 255px;
+            right: 100%;
             min-width: 100vh;
             flex-direction: column;
             background: var(--bg-color);
